@@ -165,12 +165,6 @@ Flujo básico del niño dentro de la aplicación:
 
 ---
 
-## 📸 Screenshots
-
-> _(Agregar aquí capturas de pantalla de los juegos y la interfaz infantil)_
-
----
-
 ## ✅ Buenas prácticas aplicadas
 
 - Arquitectura limpia (Clean Architecture)
